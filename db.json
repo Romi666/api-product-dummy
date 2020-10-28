@@ -1,6 +1,6 @@
 {
-    "RC" : "00",
-    "Deskripsi"  : "Sukses",
+    "RC": "00",
+    "Deskripsi" : "Sukses",
     "Data" : [
         {
             "id" : 1,
@@ -12,7 +12,6 @@
             "harga" : 25000,
             "picture" : "/api/v1/find-items/0812345678907/1017/picture",
             "unit" : "kg"
-    
         },
         {
             "id" : 2,
@@ -51,4 +50,4 @@
     
         }
     ]
-}
+  }
